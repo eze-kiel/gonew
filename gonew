@@ -116,7 +116,4 @@ func main() {
 }
 EOF
 
-##
-# End notification
-##
 echo -e "    ${GREEN}Created${RESET} application \`$PROJECT_NAME\` package"
